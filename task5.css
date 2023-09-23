@@ -1,0 +1,38 @@
+body{
+
+    border:solid;
+    border-radius:5%;
+   border-bottom-width:100 ;
+
+}
+h1{
+    border:double;
+    border-style: ridge;
+    background-color: aqua;
+    text-align: center;
+    margin-top:2%;
+    margin-left:9%;
+    margin-right: 7%;
+    border-radius:20%;
+
+
+
+
+}
+hr{
+    border: solid;
+   border-style: dashed;
+   border-color: brown;
+}
+input{
+    border-style: groove;
+    border-radius: 8px;
+    border-color: blue;
+    background-color: pink;
+}
+img{
+    border: solid;
+    align-items: center;
+    border-color: chartreuse;
+
+}
